@@ -1,0 +1,197 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+a {
+  color: #11999E;
+}
+
+.h1-Im-Noam {
+  color: #66BFBF;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 90px;
+  line-height: 2;
+}
+
+.A-programmer-h2 {
+  font-size: 2.5rem;
+  margin-bottom: 0;
+  color: #66BFBF;
+}
+
+.profile-img {
+  width: 120px;
+  height: 180px;
+  border-radius: 50%;
+  padding: 5px;
+}
+
+.basketball-img {
+  width: 25%;
+  border: none;
+  float: left;
+  margin-right: 30px;
+}
+
+.programming-img {
+  width: 25%;
+  margin-left: 30px;
+  float: right;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+h1 {}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-weight: normal;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 200px;
+}
+
+.mid-container-dotted-hr {
+  margin-top: 115px;
+  margin-bottom: 90px;
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 9px;
+  border-color: #EAF6F6;
+  width: 4rem;
+}
+
+.bottom-container {
+  width: 100%;
+  height: 170px;
+  background-color: #66BFBF;
+  position: absolute;
+  top: 2651px;
+}
+
+.get-in-touch {
+  font-size: 40px;
+      line-height: 5;
+      font-weight: bold;
+      margin-bottom: -38px;
+}
+
+.bottom-container-dotted-hr {
+  border-style: dotted;
+  border-bottom: none;
+  border-width: 9px;
+  border-color: #EAF6F6;
+  width: 4rem;
+  margin-bottom: 75px;
+  margin-top: 130px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 350px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 100px;
+  right: 450px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+a {
+  margin-top: 20px;
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover {
+  transition: 0.8s;
+  color: #EAF6F6;
+}
+
+
+.twitter {
+
+  position: relative;
+  top: 35px;
+}
+
+.instegram {
+
+
+    position: relative;
+    top: 35px;
+}
+
+.email {
+
+
+    position: relative;
+    top: 35px;
+}
+.hashtag {
+  font-size: 10px;
+  color: #EAF6F6;
+  margin-top: 88px;
+}
+
+.btn {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  text-shadow: 1px 2px 0px #451345;
+  -webkit-box-shadow: 5px 5px 30px #8f3b8f;
+  -moz-box-shadow: 5px 5px 30px #8f3b8f;
+  box-shadow: 5px 5px 30px #8f3b8f;
+  font-family: Courier New;
+  color: #050105;
+  font-size: 31px;
+  background: #3498db;
+  padding: 13px 23px 13px 23px;
+  border: solid #ffffff 3px;
+  text-decoration: none;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  position: relative;
+  top: 88px;
+}
+
+.btn:hover {
+  background: #d1d637;
+  text-decoration: none;
+  transition: 0.8s;
+}
+
+.p {
+ margin-bottom: 80px;
+}
+
+.copyright {
+
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
